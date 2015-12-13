@@ -1,11 +1,19 @@
 body {
-    background-color: lightgrey;
+    background-color: black;
+    background-repeat: no-repeat;
+    background-position-x: 400px;
+    background-position-y: 100px;
+    
 }
 
 h1 {
-    color: blue;
+    color: white;
+    font-family: 'Arimo', sans-serif;
+    clear: left;
+
 }
 
 p {
-    color:green;
-}
+    color: white;
+    font-family: 'Arimo', sans-serif;
+    clear: left;
