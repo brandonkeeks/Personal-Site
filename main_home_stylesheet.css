@@ -1,0 +1,42 @@
+body {
+    background-color: black;
+    background-image: url("https://scontent-lga3-1.xx.fbcdn.net/hphotos-xtp1/v/t1.0-9/11108883_10152855993759109_853652069585784004_n.jpg?oh=34fcd478f67bc3074f85bd5213f68bfd&oe=56DA0D13");
+    background-repeat: no-repeat;
+    background-position-x: 400px;
+    background-position-y: 100px;
+    
+}
+
+h1 {
+    color: white;
+    font-family: 'Arimo', sans-serif;
+    clear: left;
+
+}
+
+p {
+    color: white;
+    font-family: 'Arimo', sans-serif;
+    clear: left;
+}
+div.SocialMedia img {
+	margin: 0 0 10px 10px;
+	width: 50px;
+	height: 50px;
+	float: left;
+}
+div.TableText p {
+	color: white;
+    font-family: 'Arimo', sans-serif;
+    position: absolute;
+    right: 20px;
+    width: 400px;
+    height: 300px;
+    border: 2px solid #FFFFFF;
+}
+ul.nav {
+	list-style-type: none;
+	display: inline;
+	padding: 0;
+
+}
