@@ -9,11 +9,20 @@ body {
 h1 {
     color: white;
     font-family: 'Arimo', sans-serif;
-    clear: left;
+    text-align: center;
+    font-size: 40px;
 
 }
 
 p {
     color: white;
     font-family: 'Arimo', sans-serif;
-    clear: left;
+    text-align: center;
+    font-size: 30px;
+}
+
+form {
+    color: white;
+    font-family: 'Arimo', sans-serif;
+    text-align: center;
+}
