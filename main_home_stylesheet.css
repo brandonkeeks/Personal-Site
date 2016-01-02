@@ -2,7 +2,7 @@ body {
     background-color: black;
     background-image: url("https://scontent-lga3-1.xx.fbcdn.net/hphotos-xtp1/v/t1.0-9/11108883_10152855993759109_853652069585784004_n.jpg?oh=34fcd478f67bc3074f85bd5213f68bfd&oe=56DA0D13");
     background-repeat: no-repeat;
-    background-position-x: 400px;
+    background-position-x: 300px;
     background-position-y: 100px;
     
 }
@@ -38,5 +38,10 @@ ul.nav {
 	list-style-type: none;
 	display: inline;
 	padding: 0;
+
+}
+a {
+     color: white;
+    font-family: 'Arimo', sans-serif;
 
 }
