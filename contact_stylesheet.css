@@ -6,7 +6,7 @@ body {
     
 }
 
-h1 {
+h3 {
     color: white;
     font-family: 'Arimo', sans-serif;
     text-align: center;
@@ -19,10 +19,28 @@ p {
     font-family: 'Arimo', sans-serif;
     text-align: center;
     font-size: 30px;
+    float: center;
+
 }
 
 form {
     color: white;
     font-family: 'Arimo', sans-serif;
     text-align: center;
+}
+li a {
+     color: white;
+    font-family: 'Arimo', sans-serif;
+    font-size: 20px;
+    padding: 14px 16px;
+
+}
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+}
+li {
+    float: left;
 }
