@@ -1,19 +1,55 @@
 body {
     background-color: black;
     background-repeat: no-repeat;
-    background-position-x: 400px;
-    background-position-y: 100px;
     
 }
-
 h1 {
     color: white;
     font-family: 'Arimo', sans-serif;
-    clear: left;
+    clear:left;
+}
+
+h3 {
+    color: white;
+    font-family: 'Arimo', sans-serif;
+    text-align: center;
+    font-size: 40px;
+    clear:right;
 
 }
 
 p {
     color: white;
     font-family: 'Arimo', sans-serif;
-    clear: left;
+    text-align: left;
+    font-size: 30px;
+    float: right;
+
+}
+
+li a {
+    color: white;
+    font-family: 'Arimo', sans-serif;
+    font-size: 20px;
+    padding: 14px 16px;
+
+}
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+}
+li {
+    float: right;
+}
+
+
+#main {
+    float:left;
+}
+#sidebar {
+    clear:right;
+    width:1000px;
+
+}
