@@ -34,11 +34,21 @@ div.TableText p {
     height: 300px;
     border: 2px solid #FFFFFF;
 }
-ul.nav {
-	list-style-type: none;
-	display: inline;
-	padding: 0;
+li a {
+     color: white;
+    font-family: 'Arimo', sans-serif;
+    font-size: 20px;
+    padding: 14px 16px;
 
+}
+ul {
+    list-style-type: none;
+    padding: 20px;
+    overflow: hidden;
+    float: right;
+}
+li {
+    float: left;
 }
 a {
      color: white;
